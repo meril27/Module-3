@@ -17,7 +17,8 @@ print("8" in tuplex)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="958" height="288" alt="image" src="https://github.com/user-attachments/assets/15a5c195-843d-498c-af97-e0cf77aa4483" />
+
 
 ## Result
 Thus, the program was executed successfully.
